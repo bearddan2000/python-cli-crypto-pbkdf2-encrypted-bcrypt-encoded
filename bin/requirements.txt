@@ -1,0 +1,2 @@
+py-bcrypt
+backports.pbkdf2
